@@ -7,12 +7,12 @@ import { getFirestore, collection, addDoc, serverTimestamp, deleteDoc, doc, onSn
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBD5eVRvbzSmSk85Ld9IHyA0RgC1B1pQ98",
-    authDomain: "web-hybrid-firebase-demo.firebaseapp.com",
-    projectId: "web-hybrid-firebase-demo",
-    storageBucket: "web-hybrid-firebase-demo.appspot.com",
-    messagingSenderId: "670045058856",
-    appId: "1:670045058856:web:c817d2534986b9fa08421d"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 // Initialize Firebase
